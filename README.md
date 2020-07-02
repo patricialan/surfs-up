@@ -1,4 +1,4 @@
- # Surfs Up
+ # Surf's Up
 
 # Project Overview
 The context of this project is to assess whether a surf and ice cream shop would be a viable business venture in Oahu. This project specifically focuses on whether seasonal weather changes would be too disruptive to the business. To address this question, precipitation and temperature data in June and December from 2010 to 2017 was analysed. The data was collected from 9 weather stations in Oahu. 
